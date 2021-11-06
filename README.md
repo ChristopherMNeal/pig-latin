@@ -1,3 +1,44 @@
+# _Pig Latin Translator_
+
+#### By _**Christopher Neal & Christy Welch**_
+
+#### _A simple application that allows users to convert text to **tHiS stYLe wRItiNg**_
+
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _Javascript_
+* _jQuery_
+
+## Description
+
+_This project was created for Epicodus bootcamp to show proficiency in arrays and looping._
+_This program converts inputted text into pig latin following the language requirements. The program also preserves the punctuation and capitalization of the original text._
+
+## Setup/Installation Requirements
+
+* _Clone the [repository](https://github.com/ChristopherMNeal/pig-latin) from GitHub or download and open the Zip on your machine._
+* _Open index.html in your preferred browser_
+
+## Known Bugs
+
+* _None at this time_
+
+## Future Updates
+
+* _Refactor to use RegEx_
+
+## License
+
+_[MIT](https://opensource.org/licenses/MIT)_
+
+Copyright (c) _2021_ _Christopher Neal & Christy Welch_
+
+## Support and Contact Details
+* _christopher.m.neal@gmail.com_
+
 Describe: pigLatinTranslator()
 
 Test: "It returns a single word string that beings with a vowel with "-way" appended."
