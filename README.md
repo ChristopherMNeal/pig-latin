@@ -2,7 +2,7 @@
 
 #### By _**Christopher Neal & Christy Welch**_
 
-#### _A simple application that allows users to convert text to **tHiS stYLe wRItiNg**_
+#### _A simple application that allows users to convert text to Pig Latin_
 
 ## Technologies Used
 
